@@ -1,9 +1,0 @@
-C:\Users\VICTORPACHECOMENDONC\Desktop\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\bin\Debug\netcoreapp2.1.0\Alura.WebAPI.DAL.Usuarios.deps.json
-C:\Users\VICTORPACHECOMENDONC\Desktop\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\bin\Debug\netcoreapp2.1.0\Alura.WebAPI.DAL.Usuarios.dll
-C:\Users\VICTORPACHECOMENDONC\Desktop\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\bin\Debug\netcoreapp2.1.0\Alura.WebAPI.DAL.Usuarios.pdb
-C:\Users\VICTORPACHECOMENDONC\Desktop\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.1.0\Alura.WebAPI.DAL.Usuarios.csprojAssemblyReference.cache
-C:\Users\VICTORPACHECOMENDONC\Desktop\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.1.0\Alura.WebAPI.DAL.Usuarios.AssemblyInfoInputs.cache
-C:\Users\VICTORPACHECOMENDONC\Desktop\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.1.0\Alura.WebAPI.DAL.Usuarios.AssemblyInfo.cs
-C:\Users\VICTORPACHECOMENDONC\Desktop\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.1.0\Alura.WebAPI.DAL.Usuarios.csproj.CoreCompileInputs.cache
-C:\Users\VICTORPACHECOMENDONC\Desktop\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.1.0\Alura.WebAPI.DAL.Usuarios.dll
-C:\Users\VICTORPACHECOMENDONC\Desktop\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.1.0\Alura.WebAPI.DAL.Usuarios.pdb
